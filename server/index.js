@@ -114,6 +114,7 @@ mongoose.connect('mongodb://127.0.0.1:27017/train', {
 
         }catch(err){
             console.log(err);
+            console.log(err,'Pavan❤️❤️❤️❤️❤️❤️❤️')
         }
     })
 
